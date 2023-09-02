@@ -15,6 +15,9 @@
 - 📫 How to reach me **rajmohan51502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="left">
 <a href="https://linkedin.com/in/mohanraj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanraj5" height="30" width="40" /></a>
 <a href="https://instagram.com/t_w_i_n_s_o_u_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_w_i_n_s_o_u_l" height="30" width="40" /></a>
