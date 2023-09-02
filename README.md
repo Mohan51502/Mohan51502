@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohanraj+Venkatachalam!;" />
 </h1>
-<h3 align="center">A passionate Mern Developer from India</h3>
+<h3 align="center">A passionate Mern Stack Developer from India</h3>
 <img align="right" alt="mohan51502" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xcEUfsnaChTZxK8iXwicv0ucQ_g8Xfew2Q&usqp=CA"/>
 <br/>
 
