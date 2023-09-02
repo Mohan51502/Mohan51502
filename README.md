@@ -10,6 +10,8 @@
 
 
 - 💬 Ask me about **Html,Css,Javascript,React js,Node js,AWS,Mysql,Mongodb,Bootstrap**
+
+-  ⚡ Fun fact: **+ve Guy**    ⚡
  <br/>
 
 
