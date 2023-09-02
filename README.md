@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **Full Stack Development Course from Guvi**
 
 
-- 💬 Ask me about **Html,Css,Javascript,React js,Node js,AWS,Mysql,Mongodb**
+- 💬 Ask me about **Html,Css,Javascript,React js,Node js,AWS,Mysql,Mongodb,Bootstrap**
+- <br/>
 
-- 📫 How to reach me **rajmohan51502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div id="header" align="center">
