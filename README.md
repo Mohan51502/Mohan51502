@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohanraj V</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohanraj+Venkatachalam!;" />
+</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="mohan51502" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xcEUfsnaChTZxK8iXwicv0ucQ_g8Xfew2Q&usqp=CA"/>
 
@@ -6,7 +9,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development Course from Guvi**
 
-- 👨‍💻 All of my projects are available at [https://sprightly-starburst-99e983.netlify.app/](https://sprightly-starburst-99e983.netlify.app/)
 
 - 💬 Ask me about **Html,Css,Javascript,React js,Node js,AWS,Mysql,Mongodb**
 
