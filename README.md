@@ -10,7 +10,7 @@
 
 
 - 💬 Ask me about **Html,Css,Javascript,React js,Node js,AWS,Mysql,Mongodb,Bootstrap**
-- <br/>
+ <br/>
 
 
 <h3 align="left">Connect with me:</h3>
